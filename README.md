@@ -12,5 +12,10 @@ You can contact me via **email** at **joaomariosaraiva.99@gmail.com** or connect
 
 ### [Project: 1 - Talent-Segmentation-and-Workforce-Profiling-using-K-Modes](https://github.com/JoaoSaraiva99/Talent-Segmentation-and-Workforce-Profiling-using-K-Modes)
 **Project description:** 
-HR analytics project focused on workforce segmentation, performance evaluation, and rater-effect validation using dashboarding, K-Modes clustering, and regression analysis. 
-The results showed that the workforce could be segmented into distinct employee profiles with different levels of performance, visibility needs, promotion dynamics, and readiness for broader responsibilities. The
+This is an HR analytics project where I explored employee performance evaluation, workforce segmentation, and rater-effect validation using a combination of dashboarding, clustering, and regression analysis.
+- Data was based on an HR evaluation dataset covering multiple fiscal periods
+- Built an interactive dashboard in Power BI to analyse workforce structure, score distribution, visibility needs, promotion patterns, and supervisory trends
+- Applied **K-Modes clustering** to segment employees into distinct categorical profiles
+- Used **statistical tests** and **regression models** to validate whether the Nine Block Score was meaningfully linked to talent-related outcomes
+- Main tools used: **Python, Pandas, Power BI, KModes, Logistic Regression**
+- Key findings showed clear employee segments with different performance, development, and promotion patterns, while also highlighting the limitations of the score in predicting attrition risk
