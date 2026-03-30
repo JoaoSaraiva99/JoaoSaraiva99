@@ -31,3 +31,12 @@ This is a wine analytics project where I explored product segmentation, catalogu
 - Used the **ChatGPT API** to help translate technical outputs into business-oriented interpretations related to wine quality, classification, and marketing potential
 - Main tools used: **Python, Pandas, Scikit-learn, Seaborn, Plotly, PCA, K-Means, SOMs, Decision Trees, OpenAI API**
 - Key findings showed that the catalogue can be segmented into **4 distinct wine profiles**, providing a clearer basis for targeted advertising, stronger product positioning, and more efficient catalogue promotion
+
+### [Project: 3 - Transfer Service Purchase Prediction using Machine Learning]([https://github.com/JoaoSaraiva99/Data-Driven-Customer-Segmentation-for-Wine-Catalog](https://github.com/JoaoSaraiva99/Predicting-Customer-Transfer-Service-Adoption-Using-Logistic-Regression)
+This is a customer analytics project where I explored customer behavior, feature engineering, and predictive modeling to estimate the likelihood of purchasing a transfer service, using a combination of data preprocessing, classification models, and performance evaluation. Data was based on real-world operational datasets from a short-term rental company, combining reservations, apartments, and transfer records into a unified analytical dataset
+- Performed extensive data cleaning, including handling missing values, standardizing categorical variables, and resolving inconsistencies typical of real business data
+- Engineered relevant features such as check-in time categories, distance to airport, booking lead time, and seasonality indicators to capture behavioral patterns
+- Applied one-hot encoding and dataset balancing techniques (RandomOverSampler) to improve model performance on imbalanced data
+- Tested multiple classification models, including Decision Trees, Bagging, Random Forest, Gradient Boosting, and XGBoost
+- Main tools used: **Python, Pandas, Scikit-learn, XGBoost, Imbalanced-learn**
+- Key findings showed that customer purchase behavior is strongly influenced by booking timing, check-in period, and location-related factors. Gradient Boosting achieved the best performance in identifying potential buyers, enabling more effective targeting strategies and supporting data-driven decision-making for service promotion.
