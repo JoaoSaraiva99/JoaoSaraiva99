@@ -40,3 +40,16 @@ This is a customer analytics project where I explored customer behavior, feature
 - Tested multiple classification models, including Decision Trees, Bagging, Random Forest, Gradient Boosting, and XGBoost
 - Main tools used: **Python, Pandas, Scikit-learn, XGBoost, Imbalanced-learn**
 - Key findings showed that customer purchase behavior is strongly influenced by booking timing, check-in period, and location-related factors. Gradient Boosting achieved the best performance in identifying potential buyers, enabling more effective targeting strategies and supporting data-driven decision-making for service promotion.
+
+
+## Certifications
+### 1st Place in the Identifying Fraud Challenge - Spring 2025
+<a href="https://www.credly.com/badges/634b8637-bd87-459b-b8d0-e6694d357735/linked_in_profile">
+  <img src="https://github.com/user-attachments/assets/60c4878a-c4ce-4e80-b2b2-686e28c458fe" alt="Credly Badge" width="140"/>
+</a>
+### Advanced Proficiency in KNIME Analytics Platform badge image. Certification. Intermediate level. Issued by KNIME
+Advanced Proficiency in KNIME Analytics Platform
+
+<a href="https://www.credly.com/badges/524b2e5d-00e2-45f1-b714-84425fcbb3af">
+  <img src="https://github.com/user-attachments/assets/b7120d7c-ea6d-4330-9862-76611c6b8615" alt="Credly Badge" width="140"/>
+</a>
