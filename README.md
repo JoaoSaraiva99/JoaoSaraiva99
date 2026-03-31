@@ -47,6 +47,7 @@ This is a customer analytics project where I explored customer behavior, feature
 <a href="https://www.credly.com/badges/634b8637-bd87-459b-b8d0-e6694d357735/linked_in_profile">
   <img src="https://github.com/user-attachments/assets/60c4878a-c4ce-4e80-b2b2-686e28c458fe" alt="Credly Badge" width="140"/>
 </a>
+
 ### Advanced Proficiency in KNIME Analytics Platform badge image. Certification. Intermediate level. Issued by KNIME
 Advanced Proficiency in KNIME Analytics Platform
 
