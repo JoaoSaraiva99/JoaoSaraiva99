@@ -33,6 +33,7 @@ This is a wine analytics project where I explored product segmentation, catalogu
 - Key findings showed that the catalogue can be segmented into **4 distinct wine profiles**, providing a clearer basis for targeted advertising, stronger product positioning, and more efficient catalogue promotion
 
 ### [Project: 3 - Transfer Service Purchase Prediction using Machine Learning](https://github.com/JoaoSaraiva99/Predicting-Customer-Transfer-Service-Adoption-Using-Logistic-Regression)
+**Project description:** 
 This is a customer analytics project where I explored customer behavior, feature engineering, and predictive modeling to estimate the likelihood of purchasing a transfer service, using a combination of data preprocessing, classification models, and performance evaluation. Data was based on real-world operational datasets from a short-term rental company, combining reservations, apartments, and transfer records into a unified analytical dataset
 - Performed extensive data cleaning, including handling missing values, standardizing categorical variables, and resolving inconsistencies typical of real business data
 - Engineered relevant features such as check-in time categories, distance to airport, booking lead time, and seasonality indicators to capture behavioral patterns
@@ -40,6 +41,16 @@ This is a customer analytics project where I explored customer behavior, feature
 - Tested multiple classification models, including Decision Trees, Bagging, Random Forest, Gradient Boosting, and XGBoost
 - Main tools used: **Python, Pandas, Scikit-learn, XGBoost, Imbalanced-learn**
 - Key findings showed that customer purchase behavior is strongly influenced by booking timing, check-in period, and location-related factors. Gradient Boosting achieved the best performance in identifying potential buyers, enabling more effective targeting strategies and supporting data-driven decision-making for service promotion.
+
+### [Project: 4 - Fraud Analytics with KNIME](https://github.com/JoaoSaraiva99/Fraud-Analytics-with-KNIME)
+**Project description:**  
+This is a fraud analytics project where I explored anomaly detection and classification techniques using a combination of statistical methods, machine learning models, and deployment workflows in KNIME.  
+- Applied **outlier detection (IQR)**, **Decision Trees**, **Random Forest**, **Gradient Boosting**, **Logistic Regression**, and **Autoencoders**  
+- Performed **feature engineering** and model-specific preprocessing to improve detection performance  
+- Designed a **3-layer hybrid architecture** combining Autoencoder, Decision Tree, and Quartile-based validation  
+- Simulated deployment with **email alerts** for suspicious transactions  
+- Main tools used: **KNIME Analytics Platform, Machine Learning, Feature Engineering**  
+- Key findings showed that combining models improves fraud detection performance, with a strong focus on identifying the minority class and enabling real-time monitoring
 
 
 ## Certifications
