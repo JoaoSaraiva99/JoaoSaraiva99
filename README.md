@@ -52,6 +52,19 @@ This is a fraud analytics project where I explored anomaly detection and classif
 - Main tools used: **KNIME Analytics Platform, Machine Learning, Feature Engineering**  
 - Key findings showed that combining models improves fraud detection performance, with a strong focus on identifying the minority class and enabling real-time monitoring
 
+### [Project: 5 - Smart Complaint Management & Email Automation System](https://github.com/JoaoSaraiva99/Smart-Complaint-Management-Email-Automation-System/blob/main/README.md)
+**Project description:**  
+This project focuses on automating customer support email handling using AI and workflow automation tools, improving efficiency, reducing manual effort, and enhancing response time.  
+- Automated classification of emails into complaints or information requests using NLP  
+- Performed sentiment analysis, language detection, urgency detection, and TIN extraction  
+- Generated structured request summaries to support operational decision-making  
+- Implemented automated workflows with **Power Automate** for email processing and task orchestration  
+- Integrated **AI Builder** to extract invoice data from PDF attachments  
+- Stored and managed data using **Excel** and **OneDrive**  
+- Created tasks and approval flows for customer support teams  
+- Sent real-time alerts via **Microsoft Teams** for urgent requests  
+- Main tools used: **Power Automate, AI Builder, NLP, Excel, OneDrive, Microsoft Teams**  
+- The system streamlines customer support operations by automating repetitive tasks, improving data consistency, and enabling faster and more structured request resolution  
 
 ## Certifications
 ### 1st Place in the Identifying Fraud Challenge - Spring 2025
