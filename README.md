@@ -66,6 +66,15 @@ This project focuses on automating customer support email handling using AI and 
 - Main tools used: **Power Automate, AI Builder, NLP, Excel, OneDrive, Microsoft Teams**  
 - The system streamlines customer support operations by automating repetitive tasks, improving data consistency, and enabling faster and more structured request resolution  
 
+### [Project: 6 - Airline Customer Satisfaction Prediction](https://github.com/JoaoSaraiva99/Airline-Customer-Satisfaction-Prediction/)
+**Project description:**  
+This is a customer analytics and machine learning project focused on predicting airline passenger satisfaction and identifying the key drivers behind customer experience.
+- Performed **EDA**, **correlation analysis**, and **PCA**, identifying **6 latent components** of service experience
+- Tested multiple models including **Logistic Regression, Decision Trees, Random Forest, Bagging, Gradient Boosting, XGBoost and Neural Networks**
+- Applied **GridSearchCV** for model tuning 
+- Main tools used: **Python, Pandas, Scikit-learn, XGBoost, SHAP**
+- Key findings showed that satisfaction is primarily driven by **Seat comfort, Customer Type, Type of Travel and service-related variables**, while PCA reduced model performance and neural networks were not necessary given the strong performance of tree-based models.
+
 ## Certifications
 ### 1st Place in the Identifying Fraud Challenge - Spring 2025
 <a href="https://www.credly.com/badges/634b8637-bd87-459b-b8d0-e6694d357735/linked_in_profile">
