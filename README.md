@@ -102,3 +102,8 @@ This is a sports analytics project where I explored team performance, season sta
 <a href="https://www.credly.com/badges/f6a98e2e-cce0-40d5-af12-b048d8d7074d">
   <img src="https://images.credly.com/images/45dc1607-df70-4d39-8011-b14a276adaaf/linkedin_thumb_blob" alt="Credly Badge" width="200"/>
 </a>
+
+### AI Citizen Learning Journey
+<a href="https://www.credly.com/badges/f6a98e2e-cce0-40d5-af12-b048d8d7074d">
+  <img src="https://images.credly.com/images/45dc1607-df70-4d39-8011-b14a276adaaf/linkedin_thumb_blob" alt="Credly Badge" width="200" align="left"/>
+</a>
