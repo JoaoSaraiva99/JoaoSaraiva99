@@ -88,22 +88,6 @@ This is a sports analytics project where I explored team performance, season sta
 - Main tools used: **Power BI, Power Query, DAX, Excel**  
 
 ## Certifications
-### 1st Place in the Identifying Fraud Challenge - Spring 2025
-<a href="https://www.credly.com/badges/634b8637-bd87-459b-b8d0-e6694d357735/linked_in_profile">
-  <img src="https://github.com/user-attachments/assets/60c4878a-c4ce-4e80-b2b2-686e28c458fe" alt="Credly Badge" width="140"/>
-</a>
-
-### Advanced Proficiency in KNIME Analytics Platform
-<a href="https://www.credly.com/badges/524b2e5d-00e2-45f1-b714-84425fcbb3af">
-  <img src="https://github.com/user-attachments/assets/b7120d7c-ea6d-4330-9862-76611c6b8615" alt="Credly Badge" width="140"/>
-</a>
-
-### AI Citizen Learning Journey
-<a href="https://www.credly.com/badges/f6a98e2e-cce0-40d5-af12-b048d8d7074d">
-  <img src="https://images.credly.com/images/45dc1607-df70-4d39-8011-b14a276adaaf/linkedin_thumb_blob" alt="Credly Badge" width="220"/>
-</a>
-
-## Certifications
 
 <div align="center">
 
